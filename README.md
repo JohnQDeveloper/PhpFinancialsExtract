@@ -11,3 +11,6 @@ Main Positions Page -> All Brokerage Accounts -> Download Positions
 
 ### Vanguard
 Holdings -> Download Center -> A spreadsheet-compatible CSV File / All Accounts
+
+### Requirements
+PHP 8.4.11 (cli) (built: Jan  7 2026 08:44:00) (NTS)
