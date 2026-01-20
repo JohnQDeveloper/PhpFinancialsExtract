@@ -3,7 +3,10 @@
 2) Pull history for those symbols via Massive (Dividends, EOD Values)
 3) Store data in a mysql or sqlite database for querying
 
-###
+### Collaboration
+Collab via pull request welcome but this is ultimately something I tinker with for fun with so reliability is iffy.
+
+### Run.php
 Run.php is an example of how to use the classes in classes/
 
 This is simply a library of classes to extract data, its not meant to be used as a complete program.
