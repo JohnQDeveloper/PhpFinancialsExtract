@@ -1,7 +1,12 @@
 # Project Goals
 1) Convert to a CSV with standardized values
-2) Pull history for those symbols via Massive for 2 years (Dividends, EOD Values)
+2) Pull history for those symbols via Massive (Dividends, EOD Values)
 3) Store data in a mysql or sqlite database for querying
+
+###
+Run.php is an example of how to use the classes in classes/
+
+This is simply a library of classes to extract data, its not meant to be used as a complete program.
 
 ### Fidelity
 Main Positions Page -> Download Positions
